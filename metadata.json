@@ -1,0 +1,6 @@
+{
+  "name": "Diabetic Tracker v0 - Non-chemx",
+  "description": "Daily insulin shot task manager, glucose tracking dashboard, reminders, and clinical doctor visit export reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
